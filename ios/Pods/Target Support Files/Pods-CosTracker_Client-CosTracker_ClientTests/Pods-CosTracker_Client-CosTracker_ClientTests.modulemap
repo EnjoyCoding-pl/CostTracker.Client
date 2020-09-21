@@ -1,0 +1,6 @@
+module Pods_CosTracker_Client_CosTracker_ClientTests {
+  umbrella header "Pods-CosTracker_Client-CosTracker_ClientTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
