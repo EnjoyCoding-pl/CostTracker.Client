@@ -1,0 +1,6 @@
+module Pods_CostTracker {
+  umbrella header "Pods-CostTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
